@@ -1,0 +1,9 @@
+Mono path[0] = '/root/Test_Server/Server_Data/Managed'
+Mono config path = '/root/Test_Server/Server_Data/MonoBleedingEdge/etc'
+Preloaded 'lib_burst_generated.so'
+Preloaded 'libsteam_api.so'
+Error getting num native displays: Video subsystem has not been initialized
+[Physics::Module] Initialized MultithreadedJobDispatcher with 1 workers.
+Loading player data from /root/Test_Server/Server_Data/data.unity3d
+Error getting num native displays: Video subsystem has not been initialized
+Desktop is 0 x 0 @ 32766 Hz
